@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "スタンドバイミー",
+  "base_artist": "レミオロメン",
+  "createdAt": "2025-12-23T02:51:40.896274Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/01_スタンドバイミー_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "レミオロメン",
+      "has_synced": true,
+      "path": "select/02_スタンドバイミー_レミオロメン.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/03_スタンドバイミー_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スタンドバイミー (remastered 2022)",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/04_スタンドバイミー_(remastered_2022)_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/05_スタンドバイミー_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スタンドバイミー -2024 Remastered-",
+      "artist": "9mm Parabellum Bullet",
+      "has_synced": false,
+      "path": "select/06_スタンドバイミー_-2024_Remastered-_9mm_Parabellum_Bullet.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/07_スタンドバイミー_go!go!vanillas.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/08_スタンドバイミー_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "Yoh kamiyama",
+      "has_synced": true,
+      "path": "select/09_スタンドバイミー_Yoh_kamiyama.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "Special Favorite Music",
+      "has_synced": true,
+      "path": "select/10_スタンドバイミー_Special_Favorite_Music.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "the brilliant green",
+      "has_synced": true,
+      "path": "select/11_スタンドバイミー_the_brilliant_green.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スタンドバイミー",
+      "artist": "Remioromen",
+      "has_synced": true,
+      "path": "select/12_スタンドバイミー_Remioromen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スタンドバイミー",
+      "artist": "レミオロメン",
+      "has_synced": false,
+      "path": "select/pl_01_スタンドバイミー_レミオロメン.txt"
+    }
+  ]
+}
